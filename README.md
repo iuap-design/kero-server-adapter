@@ -1,3 +1,3 @@
-# kero-server
+# kero-server-adapter
 
 kero for server client.

@@ -1,5 +1,5 @@
 {
-  "name": "kero-server",
+  "name": "kero-server-adapter",
   "version": "1.0.0",
   "description": "kero for server client",
   "main": "lib/kero-server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iuap-design/kero-server.git"
+    "url": "git+https://github.com/iuap-design/kero-server-adapter.git"
   },
   "keywords": [
     "kero",
@@ -18,9 +18,9 @@
   "author": "GuoYongfeng",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iuap-design/kero-server/issues"
+    "url": "https://github.com/iuap-design/kero-server-adapter/issues"
   },
-  "homepage": "https://github.com/iuap-design/kero-server#readme",
+  "homepage": "https://github.com/iuap-design/kero-server-adapter#readme",
   "devDependencies": {
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.5",

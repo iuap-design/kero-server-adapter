@@ -7,8 +7,8 @@ var config = {
   },
   output: {
     path: path.resolve(__dirname, './lib'),
-    filename: 'kero-server.js',
-    library: 'kero-server',
+    filename: 'kero-server-adapter.js',
+    library: 'kero-server-adapter',
 		libraryTarget: 'umd',
 		umdNamedDefine: true
   },
