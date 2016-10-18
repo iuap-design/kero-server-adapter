@@ -7,7 +7,10 @@ var config = {
   },
   output: {
     path: path.resolve(__dirname, './lib'),
-    filename: 'kero-server.js'
+    filename: 'kero-server.js',
+    library: 'kero-server',
+		libraryTarget: 'umd',
+		umdNamedDefine: true
   },
   module: {
     loaders: [
