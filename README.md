@@ -1,2 +1,3 @@
 # kero-server
-kero for server.
+
+kero for server client.
