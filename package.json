@@ -2,9 +2,10 @@
   "name": "kero-server",
   "version": "1.0.0",
   "description": "kero for server client",
-  "main": "index.js",
+  "main": "lib/kero-server.js",
   "scripts": {
-    "test": "test"
+    "dev": "webpack-dev-server --progress --colors",
+    "prod": "webpack -p --progress"
   },
   "repository": {
     "type": "git",
